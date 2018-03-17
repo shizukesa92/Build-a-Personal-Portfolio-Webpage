@@ -1,0 +1,75 @@
+body{
+  background-color: Gray;
+}
+
+.navbar{
+  background-color: purple;
+  border: 0px;
+  margin: 0px;
+}
+
+.navbar-fixed {
+    z-index: 1;
+    position: fixed;
+    width: 100%;
+}
+
+.pic{
+  height: 40px;
+}
+
+.buttons{
+  padding-top: 15px;
+}
+
+.main1{
+  background-color: darkgray;
+}
+
+.j1{
+  background-color: darkgray;
+}
+
+/*Custom comment to center text with image, project actually only requires resizing of image*/
+.text1{
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.main2{
+  background-color: lightgray;
+  margin-bottom: 1px;
+}
+
+.main3{
+  background-color: lightgray;
+}
+
+.j2, .j3{
+  background-color: lightgray;
+}
+
+.img-well{
+  margin-bottom: 20px;
+}
+
+/*align note to bottom*/
+.text2{
+  height: 500px;
+}
+.bottom-text{
+    position: absolute;
+    bottom:0;
+    left: 1;
+}
+
+hr{
+  border-color: black;
+}
+
+footer{
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
